@@ -1,0 +1,1 @@
+Reproduction for https://github.com/storybookjs/storybook/issues/15574.
